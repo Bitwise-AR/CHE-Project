@@ -141,7 +141,8 @@ header .fa-bars{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(./Images/leaves-background-with-metallic-foil_79603-914.avif) no-repeat;
+    background: url(https://img.freepik.com/free-vector/leaves-background-with-metallic-foil_79603-914.jpg?w=2000) 
+    no-repeat;
     background-size: cover;
     background-position: center;
 }
