@@ -37,10 +37,10 @@ To get a local copy up and running, follow these steps:
    ```bash
    cd Global-Warming
 
-**Apparently the website is live at**: https://bitwise-ar.github.io/Global-Warming/
-
 ## 🪜 Usage
   Simply open the `index.html` file in your web browser to view the website. You can do this by double-clicking the file or by right-clicking and selecting "Open with" and choosing your preferred web browser.
+
+  **Apparently the website is live at**: https://bitwise-ar.github.io/Global-Warming/
 
 ## 🤝 Contributing
 
