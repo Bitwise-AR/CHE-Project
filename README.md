@@ -13,7 +13,14 @@ Global warming is one of the most pressing issues of our time. This website aims
 - **Interactive Elements**: JavaScript is used to create interactive elements that enhance user engagement.
 - **Visual Appeal**: Clean and modern design with high-quality images and graphics.
 
-## 📂 Technologies Used
+## 📂 Structure
+
+- `index.html`: The main landing page.
+- `style.css`: Contains all CSS for styling the website.
+- `index.js`: Contains all Javacript for the actions.
+- `images/`: Contains all the image files used.
+
+## ⚙️ Technologies Used
 
 - **HTML**: For structuring the content.
 - **CSS**: For styling the website.
@@ -28,7 +35,7 @@ To get a local copy up and running, follow these steps:
    git clone git@github.com:Bitwise-AR/Global-Warming.git
 2. **Navigate to the project directory**:
    ```bash
-   cd global-warming-website
+   cd Global-Warming
 
 **Apparently the website is live at**: https://bitwise-ar.github.io/Global-Warming/
 
