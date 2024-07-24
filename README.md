@@ -2,7 +2,7 @@
 
 Welcome to the Global Warming Awareness Website repository! This project is a simple yet informative website designed to raise awareness about global warming. The website is developed using HTML, CSS, and a little bit of JavaScript to create an engaging and educational experience for users.
 
-## 🚀 Introduction
+## 🚀 Introduction 
 
 Global warming is one of the most pressing issues of our time. This website aims to educate visitors about the causes, effects, and possible solutions to global warming. By spreading awareness, we hope to inspire action and contribute to the fight against climate change.
 
