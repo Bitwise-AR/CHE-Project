@@ -2,7 +2,7 @@
 
 Welcome to the Global Warming Awareness Website repository! This project is a simple yet informative website designed to raise awareness about global warming. The website is developed using HTML, CSS, and a little bit of JavaScript to create an engaging and educational experience for users.
 
-## 🚀 Introduction
+## 🚀 Introduction 
 
 Global warming is one of the most pressing issues of our time. This website aims to educate visitors about the causes, effects, and possible solutions to global warming. By spreading awareness, we hope to inspire action and contribute to the fight against climate change.
 
@@ -37,10 +37,10 @@ To get a local copy up and running, follow these steps:
    ```bash
    cd Global-Warming
 
-**Apparently the website is live at**: https://bitwise-ar.github.io/Global-Warming/
-
 ## 🪜 Usage
   Simply open the `index.html` file in your web browser to view the website. You can do this by double-clicking the file or by right-clicking and selecting "Open with" and choosing your preferred web browser.
+
+  **Apparently the website is live at**: https://bitwise-ar.github.io/Global-Warming/
 
 ## 🤝 Contributing
 
